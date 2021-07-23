@@ -17,13 +17,12 @@
 - 🌐 &nbsp; WordPress | HTML | CSS 
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
 
+
+## GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gamer13alone&hide_border=true&background=0000FF&fire=000000&ring=000000&border=000000&stroke=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000)](https://git.io/streak-stats)
 <br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamer13alone&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0,0000FF,00000F" alt="Aria's Stats">
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamer13alone&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=000000&icon_color=000000&text_color=000000&bg_color=0000FF" alt="Aria's Stats">
 </br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamer13alone&text_color=FFFFFF&bg_color=0,0000FF,00000F)](https://github.com/devSouvik/github-readme-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
