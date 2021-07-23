@@ -31,7 +31,7 @@
 &nbsp; <a href="https://twitter.com/gamer13alone" target="_blank" rel="noopener noreferrer"><img src="https://github.com/gamer13alone/gamer13alone/blob/main/Twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/gamer13alone/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/gamer13alone/gamer13alone/blob/main/Instagram.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/glaria" target="_blank" rel="noopener noreferrer"><img src="https://github.com/gamer13alone/gamer13alone/blob/main/Linkedin.png" width="50" /></a>
-&nbsp; <a href="me@glaria.ir" target="_blank" rel="noopener noreferrer"><img src="https://github.com/gamer13alone/gamer13alone/blob/main/Discord.png"  width="50" /></a>
+&nbsp; <a href="https://discord.gg/PSAXSyjjj7" target="_blank" rel="noopener noreferrer"><img src="https://github.com/gamer13alone/gamer13alone/blob/main/Discord.png"  width="50" /></a>
 </p>
 
 
