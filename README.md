@@ -19,11 +19,11 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamer13alone&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=000000&icon_color=000000&text_color=000000&bg_color=0,0000FF,00000F" alt="Aria's Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamer13alone&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0,0000FF,00000F" alt="Aria's Stats">
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamer13alone&layout=compact&text_color=000000&bg_color=0,0000FF,00000F)](https://github.com/devSouvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamer13alone&text_color=FFFFFF&bg_color=0,0000FF,00000F)](https://github.com/devSouvik/github-readme-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
