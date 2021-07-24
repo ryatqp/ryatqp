@@ -11,7 +11,7 @@
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-## GitHub Trophy's
+## GitHub Trophics
 ![trophy](https://github-profile-trophy.vercel.app/?username=gamer13alone&theme=flat)
 
 <h3>🛠 Tech Stack</h3>
