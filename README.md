@@ -37,7 +37,7 @@
 </p>
 
 
-<p>
+<p align="center">
 <img src=https://komarev.com/ghpvc/?username=gamer13alone />
 <img src=https://img.shields.io/badge/Email-me%40glaria.ir-blue />
 </p>
