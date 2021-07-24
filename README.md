@@ -12,7 +12,7 @@
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 ## GitHub Trophics
-![trophy](https://github-profile-trophy.vercel.app/?username=gamer13alone&row=1&column=7&theme=flat&no-bg=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=gamer13alone&row=1&column=7&theme=flat&theme=alduin)
 
 <h3>🛠 Tech Stack</h3>
 
